@@ -99,7 +99,7 @@ want to highlight once you've reviewed the model.)*
 ![Assumptions](screenshots/assumptions.png)
 
 ### Valuation
-![Valuation](screenshots/valuation.png)
+![Valuation](https://github.com/user-attachments/assets/87065219-d905-4abd-8d1e-a1830edf5f2c).
 
 ### Financial Ratios
 ![Financial Ratios](https://github.com/user-attachments/assets/bcadddc3-fb52-4311-90f0-337d8f3df4be).
