@@ -96,7 +96,7 @@ want to highlight once you've reviewed the model.)*
 ![Income Statement](https://github.com/user-attachments/assets/f6b2d5d9-44b9-4714-876f-db91cdf8dc6d).
 
 ### Input Data / Assumptions
-![Assumptions](screenshots/assumptions.png)
+![Assumptions](https://github.com/user-attachments/assets/9503f409-8560-479d-b1b0-ee7773b02f08).
 
 ### Valuation
 ![Valuation](https://github.com/user-attachments/assets/8eec8eaa-4be2-4c43-9ac2-d5aae463fc3a).
