@@ -93,7 +93,7 @@ want to highlight once you've reviewed the model.)*
 ![Dashboard Overview](https://github.com/user-attachments/assets/f2261b23-3432-4622-a905-c6b313b9aac4)
 
 ### Income Statement
-![Income Statement](screenshots/income_statement.png)
+![Income Statement](https://github.com/user-attachments/assets/f6b2d5d9-44b9-4714-876f-db91cdf8dc6d).
 
 ### Input Data / Assumptions
 ![Assumptions](screenshots/assumptions.png)
