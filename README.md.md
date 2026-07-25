@@ -6,7 +6,7 @@ company in the FMCG (Fast-Moving Consumer Goods) beverage sector. The model link
 valuation and a full financial ratio suite, all driven from a single set of input
 assumptions.
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/user-attachments/assets/f2261b23-3432-4622-a905-c6b313b9aac4)
 
 ---
 
