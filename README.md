@@ -61,14 +61,7 @@ solvency ratios.
 | 11 | Financial Ratios | Profitability, liquidity, and solvency ratios |
 | 12 | Data / Pivot Sheet | Underlying data tables and pivot analysis |
 
----
 
-## 📂 Data Source
-
-*Hypothetical/case-study company built for portfolio purposes — not based on a real,
-publicly traded business.* (Update this line if the brief or data source differs.)
-
----
 
 ## 🔍 Key Insights
 
@@ -82,10 +75,6 @@ publicly traded business.* (Update this line if the brief or data source differs
   though it trends down from ~8.2x (2024) to ~3.7x (2028) as current liabilities grow
 - The DCF implies an Enterprise Value of ~657M against an Equity Valuation of ~97M
 
-*(Treat these as illustrative talking points — swap in the exact figures/narrative you
-want to highlight once you've reviewed the model.)*
-
----
 
 ## 📸 Screenshots
 
@@ -110,4 +99,4 @@ want to highlight once you've reviewed the model.)*
 
 **Emmanuel Sekyere**
 Financial Analyst | Data Analytics
-[LinkedIn] · [Portfolio Website] · [Email]
+[www.linkedin.com/in/emmanuelsekyere] · [https://github.com/E-SEKYER] · [sekmanuel@gmail.com]
