@@ -6,8 +6,6 @@ company in the FMCG (Fast-Moving Consumer Goods) beverage sector. The model link
 valuation and a full financial ratio suite, all driven from a single set of input
 assumptions.
 
-![Dashboard Overview](https://github.com/user-attachments/assets/f2261b23-3432-4622-a905-c6b313b9aac4)
-
 ---
 
 ## 📌 Project Summary
@@ -89,22 +87,10 @@ want to highlight once you've reviewed the model.)*
 
 ---
 
-## ▶️ How to Use
-
-1. Download `Sip & Savor Beverage Co..xlsx`
-2. Open in Microsoft Excel (desktop version recommended for full pivot table and
-   sparkline support)
-3. Start on the **Dashboard** tab for the headline view
-4. Use the **Table of Content** tab to navigate to any statement or the Valuation tab
-5. Assumptions can be adjusted on the **Input Data** tab — changes flow through
-   automatically to all statements, ratios, and the valuation
-
----
-
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](![Dashboard Overview](https://github.com/user-attachments/assets/f2261b23-3432-4622-a905-c6b313b9aac4))
 
 ### Income Statement
 ![Income Statement](screenshots/income_statement.png)
