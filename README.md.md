@@ -102,7 +102,7 @@ want to highlight once you've reviewed the model.)*
 ![Valuation](screenshots/valuation.png)
 
 ### Financial Ratios
-![Financial Ratios](screenshots/ratios.png)
+![Financial Ratios](https://github.com/user-attachments/assets/bcadddc3-fb52-4311-90f0-337d8f3df4be).
 
 ---
 
