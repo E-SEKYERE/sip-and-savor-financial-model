@@ -90,7 +90,7 @@ want to highlight once you've reviewed the model.)*
 ## 📸 Screenshots
 
 ### Dashboard
-(https://github.com/user-attachments/assets/f2261b23-3432-4622-a905-c6b313b9aac4))
+![Dashboard Overview](https://github.com/user-attachments/assets/f2261b23-3432-4622-a905-c6b313b9aac4)
 
 ### Income Statement
 ![Income Statement](screenshots/income_statement.png)
